@@ -23,22 +23,22 @@ body {
 	margin-bottom: 40px;
 }
 
-.about-position {
-	font-style: normal;
-	font-weight: bold;
-	font-size: 14px;
-	line-height: 17px;
-	color: #000000;
-	margin-bottom: 20px;
-}
-
 .about-name {
 	font-style: normal;
-	font-weight: bold;
-	font-size: 45px;
+	font-weight: 900;
+	font-size: 55px;
 	line-height: 55px;
 	color: #000000;
 	margin-bottom: 25px;
+}
+
+.about-position {
+	font-style: normal;
+	font-weight: 500;
+	font-size: 25px;
+	line-height: 17px;
+	color: #000000;
+	margin-bottom: 30px;
 }
 
 .about-discription {
